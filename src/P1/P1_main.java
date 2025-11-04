@@ -11,9 +11,9 @@ public class P1_main {
         } else if (wuerfel == 2) {
             System.out.println("Verloren!");
         } else if (wuerfel == 5) {
-            System.out.println("Unentschieden.");
+            System.out.println("Unentschieden!");
         } else {
-            System.out.println("Lage unklar.");
+            System.out.println("Lage unklar!");
         }
 	}
 
